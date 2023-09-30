@@ -2,7 +2,6 @@ const colorArr = ["#F55A5A", "#2B283A", "#FBF3AB", "#AAD186", "#A626D3"]
 
 const colorInput = document.getElementById('color-input')
 const select = document.getElementById('select')
-const section = document.getElementById('section')
 const containerColor = document.getElementById('container-color')
 const containerP = document.getElementById('container-p')
 
